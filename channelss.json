@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "TF1",
-        "url": "http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:FB:79:98&stream=1729372&extension=ts&play_token=USWn4FgbCQ",
+        "url": "http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:D2:9C:03&stream=36701&extension=ts",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TF1_logo_2013.svg/1200px-TF1_logo_2013.svg.png",
         "category_id": "2",
         "category_name": "Cinéma"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "title": "France 2",
-        "url": "http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:FB:79:98&stream=1729372&extension=ts&play_token=USWn4FgbCQ",
+        "url": "http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:D2:9C:03&stream=36701&extension=ts",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/France_2_2018.svg/1200px-France_2_2018.svg.png",
         "category_id": "2",
         "category_name": "Cinéma"
