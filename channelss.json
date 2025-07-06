@@ -9,6 +9,14 @@
     },
     {
         "id": "2",
+        "title": "TOUTE L HISTOIRE HD",
+        "url": "http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:D2:9C:03&stream=36778&extension=ts",
+        "logo": "https://logo.iptveditor.com/toutelhistoire.png",
+        "category_id": "2",
+        "category_name": "Sport"
+    },
+    {
+        "id": "3",
         "title": "France 2",
         "url": "http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:D2:9C:03&stream=36701&extension=ts",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/France_2_2018.svg/1200px-France_2_2018.svg.png",
