@@ -17,10 +17,10 @@
     },
     {
         "id": "3",
-        "title": "C8 HD",
-        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507464&extension=ts&play_token=Pm3GVMNRw5",
-        "logo": "http://picons.cmshulk.com/picons/507464.png",
-        "category_id": "1",
-        "category_name": "Cinéma"
+        "title": "CRIME DISTRICT",
+        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=1071008&extension=ts&play_token=PTbrWN4lde",
+        "logo": "http://picons.cmshulk.com/picons/1071008.png",
+        "category_id": "4",
+        "category_name": "Jeunesse"
     }
 ]
