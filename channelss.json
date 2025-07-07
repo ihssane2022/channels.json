@@ -1,14 +1,22 @@
 [
     {
         "id": "1",
-        "title": "TF1",
-        "url": "http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:D2:9C:03&stream=36701&extension=ts",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TF1_logo_2013.svg/1200px-TF1_logo_2013.svg.png",
+        "title": "USHUAIA HD",
+        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507332&extension=ts&play_token=Qb6Yj2VgMp",
+        "logo": "http://picons.cmshulk.com/picons/507332.png",
         "category_id": "3",
-        "category_name": "Cinéma"
+        "category_name": "Documentaire"
+    },
+     {
+        "id": "2",
+        "title": "ANIMAUX HD",
+        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507326&extension=ts&play_token=FZlXhLyB6h",
+        "logo": "http://picons.cmshulk.com/picons/507326.png",
+        "category_id": "3",
+        "category_name": "Documentaire"
     },
     {
-        "id": "2",
+        "id": "3",
         "title": "TOUTE L HISTOIRE HD",
         "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=1470653&extension=ts&play_token=be2A3CeDSW",
         "logo": "https://logo.iptveditor.com/toutelhistoire.png",
@@ -16,7 +24,7 @@
         "category_name": "Sport"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "CRIME DISTRICT",
         "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=1071008&extension=ts&play_token=PTbrWN4lde",
         "logo": "http://picons.cmshulk.com/picons/1071008.png",
