@@ -8,6 +8,14 @@
         "category_name": "Documentaire"
     },
      {
+        "id": "1",
+        "title": "USHUAIA HD",
+        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507332&extension=ts&play_token=Qb6Yj2VgMp",
+        "logo": "http://picons.cmshulk.com/picons/507332.png",
+        "category_id": "3",
+        "category_name": "Documentaire"
+    },
+     {
         "id": "2",
         "title": "ANIMAUX HD",
         "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507326&extension=ts&play_token=FZlXhLyB6h",
@@ -17,9 +25,17 @@
     },
     {
         "id": "3",
-        "title": "TOUTE L HISTOIRE HD",
-        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=1470653&extension=ts&play_token=be2A3CeDSW",
-        "logo": "https://logo.iptveditor.com/toutelhistoire.png",
+        "title": "Bein Sports 1",
+        "url": "http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:6F:93:59&stream=971294&extension=ts&play_token=kebomW6AFw",
+        "logo": "https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png",
+        "category_id": "2",
+        "category_name": "Sport"
+    },
+     {
+        "id": "3",
+        "title": "Bein Sports 3",
+        "url": "http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:6F:93:59&stream=971258&extension=ts&play_token=l40N2xTaKp",
+        "logo": "https://www.planetecsat.com/wp-content/uploads/2022/10/b3-1.png",
         "category_id": "2",
         "category_name": "Sport"
     },
