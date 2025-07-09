@@ -28,7 +28,7 @@
         "title": "Bein Sports 1",
         "url": "http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:6F:93:59&stream=971294&extension=ts&play_token=kebomW6AFw",
         "logo": "https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png",
-        "category_id": "2",
+        "category_id": "1",
         "category_name": "Sport"
     },
      {
@@ -36,7 +36,7 @@
         "title": "Bein Sports 3",
         "url": "http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:6F:93:59&stream=971258&extension=ts&play_token=l40N2xTaKp",
         "logo": "https://www.planetecsat.com/wp-content/uploads/2022/10/b3-1.png",
-        "category_id": "2",
+        "category_id": "1",
         "category_name": "Sport"
     },
     {
