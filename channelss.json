@@ -7,14 +7,7 @@
         "category_id": "3",
         "category_name": "Documentaire"
     },
-     {
-        "id": "2",
-        "title": "USHUAIA HD",
-        "url": "http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:CE:09:72&stream=507332&extension=ts&play_token=Qb6Yj2VgMp",
-        "logo": "http://picons.cmshulk.com/picons/507332.png",
-        "category_id": "3",
-        "category_name": "Documentaire"
-    },
+
      {
         "id": "3",
         "title": "ANIMAUX HD",
